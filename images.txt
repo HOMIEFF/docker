@@ -1,2 +1,3 @@
 --platform=linux/amd64 leolitaly/sweet-cloud:latest
 --platform=linux/amd64 openfrp/frpc:latest
+--platform=linux/amd64 starryfrp:latest
